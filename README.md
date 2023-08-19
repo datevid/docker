@@ -1,2 +1,2 @@
-# docker
-docker snipets about diferents applications
+# Docker
+Docker snipets about diferents applications
